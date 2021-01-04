@@ -9,9 +9,11 @@ The purpose of the analysis is to assist Louise, an emerging playwriter who want
 
 ### Analysis of Outcomes Based on Launch Date
 After carefully sorting through the crowdfunding data, with an emphasis to her specific area of theater, we were able to ensure the most relevant information to Louise was presented. It was determined that the most successful period was from the month of May to July, with an average of 99 plays. There does not appear to be a strong correlation with the failed plays.
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/75815146/103499529-6a9f3d80-4e16-11eb-8935-4ec712da68ab.png)
 
 ### Analysis of Outcomes Based on Goals
 63.5% of all plays had a goal of under $10,000 which was derived from the grouping of 3 goal ranges out of 12 total.  
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/75815146/103499530-6a9f3d80-4e16-11eb-9aee-8bed70af2be8.png)
 
 ### Challenges and Difficulties Encountered
 I have had many years of experience with using Excel, and to me it was very straightforward with understanding the logic. I did make mistakes by being overconfident and trying to quickly go through it all. I restarted and did everything step by step to ensure I get the exact outcomes required. I will take that approach going forward with future challenges. The instructions are generally very clear and direct. A challenge for me was navigating Github and using the MD files at first. It is completely new to me and I will continue to learn how to improve my knowledge on these platforms. 
